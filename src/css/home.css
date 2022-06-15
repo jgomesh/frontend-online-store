@@ -208,7 +208,7 @@ select {
   }
 }
 
-@media screen and ( max-width : 375px ) {
+@media screen and ( max-width : 475px ) {
 
   select {
     background-color: #036b5300;
