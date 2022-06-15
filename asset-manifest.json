@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/frontend-online-store/static/css/main.87da60d3.chunk.css",
-    "main.js": "/frontend-online-store/static/js/main.93785a44.chunk.js",
-    "main.js.map": "/frontend-online-store/static/js/main.93785a44.chunk.js.map",
-    "runtime-main.js": "/frontend-online-store/static/js/runtime-main.720530ed.js",
-    "runtime-main.js.map": "/frontend-online-store/static/js/runtime-main.720530ed.js.map",
-    "static/js/2.aab81f53.chunk.js": "/frontend-online-store/static/js/2.aab81f53.chunk.js",
-    "static/js/2.aab81f53.chunk.js.map": "/frontend-online-store/static/js/2.aab81f53.chunk.js.map",
-    "index.html": "/frontend-online-store/index.html",
-    "precache-manifest.8de3ce6b8ac15ba6924ae8f18989689e.js": "/frontend-online-store/precache-manifest.8de3ce6b8ac15ba6924ae8f18989689e.js",
-    "service-worker.js": "/frontend-online-store/service-worker.js",
-    "static/css/main.87da60d3.chunk.css.map": "/frontend-online-store/static/css/main.87da60d3.chunk.css.map",
-    "static/js/2.aab81f53.chunk.js.LICENSE.txt": "/frontend-online-store/static/js/2.aab81f53.chunk.js.LICENSE.txt",
-    "static/media/TrybeStore.PNG": "/frontend-online-store/static/media/TrybeStore.ccb331dc.PNG"
+    "main.css": "/static/css/main.87da60d3.chunk.css",
+    "main.js": "/static/js/main.0a766e1f.chunk.js",
+    "main.js.map": "/static/js/main.0a766e1f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6839dbe2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6839dbe2.js.map",
+    "static/js/2.aab81f53.chunk.js": "/static/js/2.aab81f53.chunk.js",
+    "static/js/2.aab81f53.chunk.js.map": "/static/js/2.aab81f53.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1b02944f13041f8b2ccec1c60ff64000.js": "/precache-manifest.1b02944f13041f8b2ccec1c60ff64000.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.87da60d3.chunk.css.map": "/static/css/main.87da60d3.chunk.css.map",
+    "static/js/2.aab81f53.chunk.js.LICENSE.txt": "/static/js/2.aab81f53.chunk.js.LICENSE.txt",
+    "static/media/TrybeStore.PNG": "/static/media/TrybeStore.ccb331dc.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.720530ed.js",
+    "static/js/runtime-main.6839dbe2.js",
     "static/js/2.aab81f53.chunk.js",
     "static/css/main.87da60d3.chunk.css",
-    "static/js/main.93785a44.chunk.js"
+    "static/js/main.0a766e1f.chunk.js"
   ]
 }
