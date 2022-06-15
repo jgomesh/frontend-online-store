@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  
+}
+
+section {
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+img {
+  width: 100px !important;
+  height: 100px !important;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.container {
+  display: flex;
+  width: 100vw;
+  max-width: 100%;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
+
+.flex {
+  display: flex;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+main button {
+  width: 100px;
+  border: none;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: yellow;
+}
