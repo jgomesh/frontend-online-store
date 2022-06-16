@@ -157,6 +157,16 @@ class App extends React.Component {
             ) }
           />
           <Route
+            path="/frontend-online-store"
+            render={ (props) => (
+              <Home
+                { ...props }
+                cartItems={ cartItems }
+                addToCart={ this.addToCart }
+              />
+            ) }
+          />
+          <Route
             path="/cart"
             render={ (props) => (
               <Cart
